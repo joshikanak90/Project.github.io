@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My AI Teaching Toolkit</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 20px;
+      background: #f4f4f9;
+      color: #333;
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+    section {
+      margin-bottom: 40px;
+      background: #fff;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+    }
+    a {
+      color: #1e90ff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .gallery img {
+      width: 100%;
+      max-width: 300px;
+      border-radius: 10px;
+      margin: 10px;
+    }
+    .gallery {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>🎓 My AI Teaching Toolkit</h1>
+
+  <section>
+    <h2>🔗 Flashcard Deck</h2>
+    <p><a href="https://quizlet.com/join/sdKezH6bW?i=6i9w1f&x=1bqt" target="_blank">Join the Flashcard Deck on Quizlet</a></p>
+  </section>
+
+  <section>
+    <h2>📝 Student Quiz</h2>
+    <p><a href="https://quizizz.com/pro/join?gc=36005956" target="_blank">Take the Quiz on Quizizz</a></p>
+  </section>
+
+  <section>
+    <h2>📊 Exit Ticket Summary</h2>
+    <ul>
+      <li><strong>Mixed Preparedness:</strong> 2 out of 3 students felt prepared, 1 did not.</li>
+      <li><strong>Learning Takeaways:</strong> In-depth concepts, quiz prep, general understanding.</li>
+      <li><strong>Suggestions:</strong> More interaction, examples, and practical activities.</li>
+    </ul>
+    <p><a href="https://forms.gle/cUNJcJMbN832Zeos5" target="_blank">View the Exit Form</a></p>
+  </section>
+
+  <section>
+    <h2>🎙️ Lesson Podcast</h2>
+    <p><a href="https://notebooklm.google.com/notebook/c09566ba-b458-4cd9-ab96-2403898560a7/audio" target="_blank">Listen to the Podcast</a></p>
+  </section>
+
+  <section>
+    <h2>🖼️ AI Image Gallery</h2>
+    <div class="gallery">
+      <img src="https://via.placeholder.com/300x200.png?text=AI+Image+1" alt="AI Image 1">
+      <img src="https://via.placeholder.com/300x200.png?text=AI+Image+2" alt="AI Image 2">
+      <img src="https://via.placeholder.com/300x200.png?text=AI+Image+3" alt="AI Image 3">
+    </div>
+    <p>Created using tools like NightCafe, DALL·E, or Leonardo.ai</p>
+  </section>
+
+  <section>
+    <h2>📚 Literature Mapping Summary</h2>
+    <p>Connected Papers AI helped identify relevant studies, especially in fields like digital biomarkers in Alzheimer’s disease and machine learning. This allowed for a more networked understanding of the literature and informed the introduction and review sections.</p>
+  </section>
+
+  <section>
+    <h2>✍️ Reflective Note</h2>
+    <p>AI has transformed my approach to teaching and learning. It personalizes the experience, offers instant support, and increases classroom engagement. As a teacher, it enhances efficiency and allows more time for student interaction. As a learner, it fosters independence and deeper understanding. Combining human intuition with AI has reshaped how we interact with knowledge and with each other.</p>
+  </section>
+
+  <section>
+    <h2>🌟 Optional Bonus – AI Chatbot</h2>
+    <p>Embed a chatbot on your site using <a href="https://poe.com" target="_blank">Poe</a>, <a href="https://dialogflow.cloud.google.com" target="_blank">Dialogflow</a>, or <a href="https://platform.openai.com" target="_blank">ChatGPT Embed</a>.</p>
+  </section>
+
+</body>
+</html>
